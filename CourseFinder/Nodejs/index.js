@@ -13,8 +13,6 @@ port: '5432'});
 app.use(myParser.json());
 app.use(myParser.urlencoded({extended : true}));
 
-//var s3 = new AWS.S3({accessKeyId:'AKIAJD5G3RJHN5OG2YAQ', secretAccessKey:'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', region:'ap-south-1'});
-
 app.get('/', (req, res)=>{  
 });
 
