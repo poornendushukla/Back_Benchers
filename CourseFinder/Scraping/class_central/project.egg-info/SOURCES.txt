@@ -1,0 +1,13 @@
+setup.py
+class_central/__init__.py
+class_central/items.py
+class_central/middlewares.py
+class_central/pipelines.py
+class_central/settings.py
+class_central/spiders/__init__.py
+class_central/spiders/subjects.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
